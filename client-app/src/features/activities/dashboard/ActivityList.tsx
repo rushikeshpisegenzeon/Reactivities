@@ -28,6 +28,7 @@ export default function ActivityList({activities, selectActivity, deleteActivity
                       </Item.Extra>
                   </Item.Content>
                 </Item>
+        
             ))}
             </Item.Group>
           </Segment>
